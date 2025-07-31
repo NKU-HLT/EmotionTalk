@@ -22,10 +22,11 @@ We propose EmotionTalk, an interactive Chinese multimodal emotion dataset with r
 conda env create -f environment.yml
 ```
 
-### Download
-We changed the platform where the dataset is hosted due to some errors in the platform (dataverse.harvard) that have not been resolved. 
+## 🤗 Dataset Download
 
-We release EmotionTalk on the Kaggle platform. （The relevant link can be found in the most recent version of Appendix F in the submitted paper.）
+You can access the Emotiontalk dataset on HuggingFace Datasets:
+
+[https://huggingface.co/datasets/BAAI/Emotiontalk](https://huggingface.co/datasets/BAAI/Emotiontalk)
 
 ### Tool
 openface_win_x64  (https://drive.google.com/file/d/1-O8epcTDYCrRUU_mtXgjrS3OWA4HTp0-/view?usp=share_link  -> tools/openface_win_x64)
